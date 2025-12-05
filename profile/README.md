@@ -4,9 +4,9 @@
 
 ClassLens is a multi-platform attendance automation system built to replace manual roll calls with an AI-powered mechanism using just one group photograph.  
 By combining Computer Vision, Face Recognition, Vector Similarity Search, and a seamless UI across mobile and web, ClassLens enables faster, error-free, and more transparent attendance workflows.
-```
-![ClassLens](docs/classlens.jpeg)
-```
+
+![ClassLens](classlens.jpeg)
+
 ---
 
 ## 🧠 Problem We Address  
@@ -23,14 +23,14 @@ ClassLens eliminates this friction by automatically detecting student faces from
 ## 📂 Project Modules & Repositories
 
 ### 📱 Mobile App – Teachers & Students  
-🧩 Flutter application for photo capture, attendance insights, profile, PRN-based login, OTP onboarding.
+Flutter application for photo capture, attendance insights, profile, PRN-based login, OTP onboarding.
 
 👉 [ClassLens_App](https://github.com/ClassLens-A/ClassLens_App)
 
 ---
 
 ### 🧠 Backend – AI Pipeline & Core Logic  
-⚙ Django backend powering the pipeline from:
+Django backend powering the pipeline from:
 
 - Face detection  
 - Embedding extraction  
@@ -44,7 +44,7 @@ ClassLens eliminates this friction by automatically detecting student faces from
 ---
 
 ### 🖥 Admin Dashboard – Academic Management  
-🛠 Next.js dashboard enabling admins to:
+Next.js dashboard enabling admins to:
 
 - Upload bulk data via Excel/CSV  
 - Manage teachers, students, subjects, batches  
@@ -75,26 +75,13 @@ ClassLens eliminates this friction by automatically detecting student faces from
 
 ---
 
-## 📰 Featured in Newspaper  
-Our work was published in the **30th November edition** recognizing ClassLens as an innovative solution for educational institutions.
-
-> “Bringing automation into everyday student management through AI.”
-
-```
-![Newspaper Feature](docs/newspaper.png)
-```
-
----
-
 ## 📸 UI Preview (Placeholders)
 
-```
-![Teacher App – Main Screen](docs/teacher-app.png)
-![Student App – Dashboard](docs/student-dashboard.png)
-![Admin Dashboard – Bulk Upload View](docs/admin-dashboard.png)
-```
 
-You can upload screenshots later.
+![Teacher App – Main Scree](25.png)
+![Student App – Dashboard](26.png)
+![Admin Dashboard – Main](27.png)
+![Admin Dashboard – Bulk Upload](28.png)
 
 ---
 
@@ -110,9 +97,9 @@ You can upload screenshots later.
 🔄 Optimizing image processing speed across varied conditions  
 
 🚀 Planned next steps:  
-✨ Deploying on secured external cloud environment  
-✨ Public demonstration release with real-user testing  
-✨ Enhanced reporting, analytics and data insights
+- Deploying on secured external cloud environment  
+- Public demonstration release with real-user testing  
+- Enhanced reporting, analytics and data insights
 
 ---
 
@@ -120,9 +107,12 @@ You can upload screenshots later.
 
 | Team Member |
 |-------------|
-| Member 1 |
-| Member 2 |
-| Member 3 |
+| [Darsh Patel](https://github.com/dp3012) |
+| [Kirtan Soni](https://github.com/KirtanSoni02) |
+| [Maiitra Patel](https://github.com/MatPatty) |
+| [Shivam Parmar](https://github.com/ShivamP0077) |
+| [Vyom Shah](https://github.com/VyomShah28) |
+| [Yash Solanki](https://github.com/Scripter2104) |
 
 ---
 
